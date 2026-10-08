@@ -1,4 +1,4 @@
-# Canadian Citizenship Test Prep
+# Canada Citizenship Mock Test
 
 Support, Privacy Policy and Terms of Use pages for the app, served with GitHub Pages.
 
